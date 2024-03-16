@@ -1,0 +1,13 @@
+.input{
+    border: none;
+    border-bottom: 1px solid black;
+    width:100%;
+    outline: none;
+}
+.input:hover{
+    border-bottom: 1px solid red;
+    
+}
+.bor{
+    border-radius: 15px;
+}

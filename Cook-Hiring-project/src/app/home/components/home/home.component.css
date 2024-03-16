@@ -1,0 +1,41 @@
+.need{
+    font-size: 1.7rem;
+    font-weight: 700;
+    margin-left:1.3rem;
+    margin-top: 2.5rem;
+    line-height: 1;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;;
+}
+.link{
+    color: red;
+    text-decoration: none;
+
+}
+.main{
+    font-size: 1.25rem;
+    line-height: 1.75rem; 
+    margin-left: 1.3rem;
+
+}
+.btnlogin{
+    background-color: red;
+    border: none;
+    padding: 5px 9px 5px 9px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+  }
+  .input{
+   padding: 5px 0 5px 5px; 
+    margin-left:  1.3rem;
+    border-radius: 6px;
+    width: 51%;
+  }
+  .trans{
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  }

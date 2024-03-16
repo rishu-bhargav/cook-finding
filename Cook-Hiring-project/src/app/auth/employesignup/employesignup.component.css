@@ -1,0 +1,21 @@
+.input{
+    border: none;
+    border-bottom: 1px solid black;
+    width:90%;
+    outline: none;
+}
+.input:hover{
+    border-bottom: 1px solid red;
+    
+}
+.bton{
+    border-bottom: 2px solid gray;
+    border: none;
+    background-color: white;
+    padding: 1px 30px 1px 30px;
+
+}
+.bton:hover{
+    border-bottom: 2px solid red;
+}
+ 

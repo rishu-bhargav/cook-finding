@@ -1,0 +1,9 @@
+.zoom:hover {
+    transform: scale(1.1);
+}
+.Zoom{
+    transition: transform .2s; 
+}
+.add:hover{
+    background-color: rgb(125, 125, 238);
+}
